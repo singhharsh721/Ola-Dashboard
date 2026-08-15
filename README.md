@@ -12,6 +12,7 @@ The dashboard transforms raw Ola ride-booking data into actionable business insi
 * **Power Query** – Data cleaning, transformation, and preparation
 * **DAX** – Measures, KPIs, calculations, and analytical logic
 * **Microsoft Excel / CSV** – Data preparation and source data handling
+* **SQL** – Data extraction, querying, and data preparation from relational datasets
 
 ## Data Source
 
